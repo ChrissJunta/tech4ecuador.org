@@ -221,7 +221,7 @@ Last Update: 08/09/2017 (d/m/y);
 
 .gradient-b-75 {
   background: linear-gradient(142deg, rgba(42, 8, 69, 0.75), rgba(100, 65, 165, 0.75)); }
-
+x
 .gradient-b-80 {
   background: linear-gradient(142deg, rgba(42, 8, 69, 0.8), rgba(100, 65, 165, 0.8)); }
 
@@ -568,10 +568,10 @@ Last Update: 08/09/2017 (d/m/y);
   background: linear-gradient(142deg, rgba(211, 16, 39, 0.45), rgba(234, 56, 77, 0.45)); }
 
 .gradient-h-50 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.5), rgba(234, 56, 77, 0.5)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.5)); }
 
 .gradient-h-55 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.55), rgba(234, 56, 77, 0.55)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.55)); }
 
 .gradient-h-60 {
   background: linear-gradient(142deg, rgba(211, 16, 39, 0.6), rgba(234, 56, 77, 0.6)); }
