@@ -574,28 +574,27 @@ x
   background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.55)); }
 
 .gradient-h-60 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.6), rgba(234, 56, 77, 0.6)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.6)); }
 
 .gradient-h-65 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.65), rgba(234, 56, 77, 0.65)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.65)); }
 
 .gradient-h-70 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.7), rgba(234, 56, 77, 0.7)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(0, 139, 129, 0.915)); }
 
 .gradient-h-75 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.75), rgba(234, 56, 77, 0.75)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.7)); }
 
 .gradient-h-80 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.8), rgba(234, 56, 77, 0.8)); }
-
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.7)); }
 .gradient-h-85 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.85), rgba(234, 56, 77, 0.85)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.7)); }
 
 .gradient-h-90 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.9), rgba(234, 56, 77, 0.9)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.7)); }
 
 .gradient-h-95 {
-  background: linear-gradient(142deg, rgba(211, 16, 39, 0.95), rgba(234, 56, 77, 0.95)); }
+  background: linear-gradient(142deg, rgba(66,18,131,255), rgba(234, 56, 77, 0.7)); }
 
 .gradient-h-100 {
   background: linear-gradient(142deg, #d31027, #ea384d); }
