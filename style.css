@@ -229,7 +229,7 @@ x
   background: linear-gradient(142deg, rgba(42, 8, 69, 0.95), rgba(100, 65, 165, 0.95)); }
 
 .gradient-b-100 {
-  background: linear-gradient(142deg, #2a0845, #6441a5); }
+  background: linear-gradient(250deg, #4e187b, #713cd2); } /*Cuadro de donación 2 niños*/
 
 /* ===== gradient-c -> gradient-c-95 ===== */
 .gradient-c-10 {
@@ -287,7 +287,7 @@ x
   background: linear-gradient(142deg, rgba(12, 91, 156, 0.95), rgba(36, 155, 214, 0.95)); }
 
 .gradient-c-100 {
-  background: linear-gradient(142deg, #0c5b9c, #249bd6); }
+  background: linear-gradient(142deg, #0abab7, #096ebb); } /*Cuadro de donación de 3 niños*/
 
 /* ===== gradient-d -> gradient-d-95 ===== */
 
@@ -349,7 +349,7 @@ x
   background: linear-gradient(142deg, rgba(124, 58, 237, 0.95), rgba(99, 102, 241, 0.95)); }
 
 .gradient-d-100 {
-  background: linear-gradient(142deg, #7C3AED, #6366F1); }
+  background: linear-gradient(175deg, #eb2626, #d6f606); } /*Cuadro donar a un niño*/
 
 
 /* ===== gradient-e -> gradient-e-95 ===== */
@@ -533,7 +533,7 @@ x
   background: linear-gradient(142deg, rgba(252, 74, 26, 0.95), rgba(247, 183, 51, 0.95)); }
 
 .gradient-g-100 {
-  background: linear-gradient(175deg, #e43cd9, #761ca7); }/* Color botón "Donate"*/
+  background: linear-gradient(160deg, #ffce49, #ff7300); }/* Color botón "Donate"*/
 
 /* ===== gradient-h -> gradient-h-100 ===== */
 .gradient-h {
@@ -594,7 +594,7 @@ x
   background: linear-gradient(142deg, rgba(124, 58, 237, 0.95), rgba(99, 102, 241, 0.95)); }
 
 .gradient-h-100 {
-  background: linear-gradient(175deg, #64097b, #090b6e); }
+  background: linear-gradient(160deg, #ffbb00, #ff7300); } /*Botón2 donate-slide*/
 
 /* ===== gradient-i -> gradient-i-100 ===== */
 .gradient-i {
@@ -1654,7 +1654,7 @@ section.donate-slider .stat {
   margin-top: 60px;
   font-family: "Poppins", sans-serif;
   font-size: 1.875rem;
-  color: #546e7a; }
+  color: #000000; } /*Color números donación*/
 
 section.donate-slider .button {
   margin-bottom: 60px; }
@@ -1797,7 +1797,7 @@ section.donate-slider .slider-handle {
     color: #fff; }
 
 section.donate-slider .slider-fill {
-  background: linear-gradient(142deg, #6859de, #f03774); }
+  background: linear-gradient(175deg, #be60c9, #5e0561); }
 
 section.donate-slider .slider-number {
   font-size: 2rem;
