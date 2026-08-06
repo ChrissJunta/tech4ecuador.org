@@ -8,3 +8,6 @@
 
 ## Correcion
 - Se corrige la validacion de limites vacios.
+
+## Estructura
+- Formato y organizacion de secciones actualizados.
