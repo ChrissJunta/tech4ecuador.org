@@ -5,3 +5,6 @@
 
 ## Funcionalidad 2: Procesamiento Principal
 - Calculo y validacion del modulo central.
+
+## Correcion
+- Se corrige la validacion de limites vacios.
